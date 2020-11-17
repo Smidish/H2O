@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="335a6fe7-012d-4c35-af49-d5154be979c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lernwelten-2.0/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lernwelten-2.0/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lernwelten-2.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lernwelten-2.0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Materials/FloorMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Materials/FloorMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Materials/FloorMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Materials/FloorMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Materials/VRColorPickerMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Materials/VRColorPickerMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Materials/VRColorPickerMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Materials/VRColorPickerMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Materials/VRLineMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Materials/VRLineMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Materials/VRLineMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Materials/VRLineMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/ViveControllerMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/ViveControllerMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/ViveControllerMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/ViveControllerMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/ViveControllerModel.dae.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/ViveControllerModel.dae.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/ViveControllerPrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/ViveControllerPrefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/ViveControllerPrefab.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/ViveControllerPrefab.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures/DefaultMaterial_AO.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures/DefaultMaterial_AO.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures/DefaultMaterial_albedo.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures/DefaultMaterial_albedo.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures/DefaultMaterial_emissive.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures/DefaultMaterial_emissive.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures/DefaultMaterial_metallic.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures/DefaultMaterial_metallic.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures/DefaultMaterial_normal.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures/DefaultMaterial_normal.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures/DefaultMaterial_roughness.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Models/ViveController/textures/DefaultMaterial_roughness.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Plugins/vdtUnityCluster.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Plugins/vdtUnityCluster.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenuCanvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenuCanvas.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenuCanvas.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenuCanvas.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenuEntry.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenuEntry.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenuEntry.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenuEntry.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenus.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenus.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenus/VRControllerMenu.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenus/VRControllerMenu.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenus/VRControllerMenu.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenus/VRControllerMenu.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenus/VRControllerMenuButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenus/VRControllerMenuButton.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenus/VRControllerMenuButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/ControllerMenus/VRControllerMenuButton.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/Player.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/Player.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleSelectedMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleSelectedMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleSelectedMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleSelectedMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleX.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleX.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleX.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleX.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleXYZ.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleXYZ.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleXYZ.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleXYZ.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleY.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleY.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleY.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleY.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleZ.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleZ.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleZ.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/HandleZ.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/PlaneHandleMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/PlaneHandleMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/PlaneHandleMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/PlaneHandleMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/PlaneHandleSelectedMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/PlaneHandleSelectedMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/PlaneHandleSelectedMaterial.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/PlaneHandleSelectedMaterial.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/TransformHandle.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/TransformHandle.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/VRTransformHandle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/VRTransformHandle.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/VRTransformHandle.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/VRTransformHandle.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/flat_cylinder_quadrant.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/flat_cylinder_quadrant.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/flat_cylinder_quadrant.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/flat_cylinder_quadrant.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/torus_quadrant.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/torus_quadrant.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/torus_quadrant.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Prefabs/TransformHandles/torus_quadrant.obj.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Textures/testtile_512_Black_notext.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Textures/testtile_512_Black_notext.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Textures/testtile_512_Crimson_notext.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Textures/testtile_512_Crimson_notext.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Textures/testtile_512_DarkSlateGray_notext.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Textures/testtile_512_DarkSlateGray_notext.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Textures/testtile_512_Orange_notext.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Textures/testtile_512_Orange_notext.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Textures/testtile_512_SteelBlue_notext.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Textures/testtile_512_SteelBlue_notext.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/vdtUnity/Textures/testtile_512_Transparent_notext.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/vdtUnity/Textures/testtile_512_Transparent_notext.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D7E011-EC2A-4B54-856C-7061B3913295/45/5cc3aa0a/VRBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/2a/0d72e35c/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9674024A-B0E7-4D27-BBE9-EAA30DAB34D1/4a/e06c8c21/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9674024A-B0E7-4D27-BBE9-EAA30DAB34D1/7e/d3ca6bd3/Object.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/vdtUnityCluster/Scripts/SteamVRGrabber.cs" />
+        <option value="$PROJECT_DIR$/Assets/vdtUnityCluster/Scripts/ClusterBuilder.cs" />
+        <option value="$PROJECT_DIR$/Assets/vdtUnityCluster/Editor/ClusterBuilderMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/vdtUnityCluster/Mirror/Editor/Logging/LogLevelWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/vdtUnityCluster/Scripts/vdtUnityCluster.asmdef" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColorChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/vdtUnity/Editor/ClusterBuilderMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/vdtUnity/Editor/VRBuilderMenu.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i0B3tWymdFeUeNyJ3cAAwVQRU6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../../UnityBuilds/Lernwelten/Lernwelten-2.0\vdtUnityDemo.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Dev\UnityBuilds\Lernwelten\Lernwelten-2.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="335a6fe7-012d-4c35-af49-d5154be979c8" name="Default Changelist" comment="" />
+      <created>1601034435312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601034435312</updated>
+      <workItem from="1601034440114" duration="4295000" />
+      <workItem from="1604995580924" duration="5853000" />
+      <workItem from="1605007139016" duration="1601000" />
+      <workItem from="1605019565778" duration="69000" />
+      <workItem from="1605020136429" duration="851000" />
+      <workItem from="1605023351997" duration="20000" />
+      <workItem from="1605023398103" duration="1106000" />
+      <workItem from="1605025391437" duration="673000" />
+      <workItem from="1605031719801" duration="1365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="360" height="464" key="DebuggerActiveHint" timestamp="1605023730252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="360" height="464" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1605023730252" />
+    <state width="1877" height="374" key="GridCell.Tab.0.bottom" timestamp="1605032405562">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605032405562" />
+    <state width="1493" height="288" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1877" height="374" key="GridCell.Tab.0.center" timestamp="1605032405562">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605032405562" />
+    <state width="1493" height="288" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1877" height="374" key="GridCell.Tab.0.left" timestamp="1605032405561">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605032405561" />
+    <state width="1493" height="288" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1877" height="374" key="GridCell.Tab.0.right" timestamp="1605032405562">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605032405562" />
+    <state width="1493" height="288" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1877" height="266" key="GridCell.Tab.1.bottom" timestamp="1605032439856">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605032439856" />
+    <state width="1493" height="288" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1877" height="266" key="GridCell.Tab.1.center" timestamp="1605032439856">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605032439856" />
+    <state width="1493" height="288" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1877" height="266" key="GridCell.Tab.1.left" timestamp="1605032439856">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605032439856" />
+    <state width="1493" height="288" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1877" height="266" key="GridCell.Tab.1.right" timestamp="1605032439856">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605032439856" />
+    <state width="1493" height="288" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom" timestamp="1605024515241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1493" height="288" key="GridCell.Tab.2.center" timestamp="1605024515241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1493" height="288" key="GridCell.Tab.2.left" timestamp="1605024515241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1493" height="288" key="GridCell.Tab.2.right" timestamp="1605024515241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom" timestamp="1605024515241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1493" height="288" key="GridCell.Tab.3.center" timestamp="1605024515241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1493" height="288" key="GridCell.Tab.3.left" timestamp="1605024515241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+    <state width="1493" height="288" key="GridCell.Tab.3.right" timestamp="1605024515241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="288" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1605024515241" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/vdtUnity/Editor/VRBuilderMenu.cs</url>
+          <line>20</line>
+          <properties documentPath="C:\Dev\UnityProjects\Lernwelten\Lernwelten-2.0\Assets\vdtUnity\Editor\VRBuilderMenu.cs" initialLine="20">
+            <startOffsets>
+              <option value="952" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1060" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D7E011-EC2A-4B54-856C-7061B3913295/45/5cc3aa0a/VRBuilder.cs</url>
+          <line>74</line>
+          <properties documentPath="C:\Users\Pape\AppData\Roaming\JetBrains\Rider2020.2\resharper-host\DecompilerCache\decompiler\24D7E011-EC2A-4B54-856C-7061B3913295\45\5cc3aa0a\VRBuilder.cs" initialLine="74">
+            <startOffsets>
+              <option value="4265" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4336" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D7E011-EC2A-4B54-856C-7061B3913295/45/5cc3aa0a/VRBuilder.cs</url>
+          <line>72</line>
+          <properties documentPath="C:\Users\Pape\AppData\Roaming\JetBrains\Rider2020.2\resharper-host\DecompilerCache\decompiler\24D7E011-EC2A-4B54-856C-7061B3913295\45\5cc3aa0a\VRBuilder.cs" initialLine="72">
+            <startOffsets>
+              <option value="4061" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4195" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Frame#vdtUnityVR.VRBuilder.CreateVRManagerObject" memberName="V_0" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
